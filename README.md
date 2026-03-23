@@ -9,8 +9,8 @@ CSE Student · TEDx Speaker & Organizer · Open to internships and collaboration
 - Third-year Computer Science Engineering student with a CGPA of **8.67**
 - Primary language is **Java** — I enjoy building CLI tools with clean OOP design
 - **LeetCode Knight** — 300+ problems solved, contest rating 2001
-- TEDx Speaker and co-organizer of TEDxCIT 2024
-- Student Welfare Head @ Hackerz Symposium · PR Manager @ Tezos Blockchain Club
+- TEDx Speaker and co-organizer of TEDxCIT 2023
+- Student Welfare Head @ Hackerz'25 · PR Manager @ Tezos Blockchain Club 2024-25
 - Always open to learning, collaborating, and trying something new
 
 ---
